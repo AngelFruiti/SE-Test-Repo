@@ -7,3 +7,4 @@ This edit to the readme was made locally through GitHub desktop.
 This edit to the readme was made on GitHub.
 
 This edit was made to conflict with GitHub.
+This edit was made to conflict with GitHub desktop.
